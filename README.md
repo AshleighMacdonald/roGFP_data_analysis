@@ -1,5 +1,5 @@
 # roGFP_data_analysis
-This is an example R script which was used to analyse data collected from bacteria whih had been transformed with reduction-oxidation sensitive GFP (roGFP).
+This is an example R script which was used to analyse data collected from bacteria which had been transformed with reduction-oxidation sensitive GFP (roGFP).
 roGFP was used to monitor the intracellular redox state of bacterial gene deletion mutants to different concentrations of a treatment (which is hydrogen peroxide in this example script).
 This was completed to assess the roles of genes in response to the treatment.
 
